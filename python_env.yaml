@@ -1,0 +1,12 @@
+python: '3.10.11'
+build_dependencies:
+- ca-certificates
+- libffi
+- openssl
+- pip
+- python
+- setuptools
+- sqlite
+- wheel
+dependencies:
+- -r requirements.txt
